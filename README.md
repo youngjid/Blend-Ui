@@ -1,2 +1,2 @@
 # Blend-Ui
-Turn Design To Real Native Apps
+Turn Your Ui Design To Real Native App.
